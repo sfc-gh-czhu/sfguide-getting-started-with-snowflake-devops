@@ -1,6 +1,6 @@
-/*
+
 -----------------------------------------------------------------
-Perform the following changes after switching to the "dev" branch
+--Perform the following changes after switching to the "dev" branch
 -----------------------------------------------------------------
 
 -- Add this view definition at the end of steps/03_harmonize_data.sql
