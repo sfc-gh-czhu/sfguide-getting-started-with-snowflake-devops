@@ -2,6 +2,8 @@
 use role accountadmin;
 use schema quickstart_prod.silver;
 
+--use schema quickstart_{{environment}}.silver;
+
 /*
 To join the flight and location focused tables 
 we need to cross the gap between the airport and cities domains. 
