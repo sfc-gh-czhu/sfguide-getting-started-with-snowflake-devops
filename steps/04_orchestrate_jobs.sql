@@ -14,9 +14,7 @@ create or alter table vacation_spots (
   , avg_cloud_cover_pct float
   , precipitation_probability_pct float
   -- STEP 5: INSERT CHANGES HERE
-  , aquarium_cnt int
-, zoo_cnt int
-, korean_restaurant_cnt int
+
   ) 
 data_retention_time_in_days = 1;
 --data_retention_time_in_days = {{retention_time}};
